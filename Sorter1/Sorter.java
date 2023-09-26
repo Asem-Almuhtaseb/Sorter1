@@ -12,6 +12,9 @@ public class Sorter {
         }
     }
 
+    public static void sort(array){
+        insertionSort(array);
+            }
     public static void main(String[] args) {}
-
+    
 }
